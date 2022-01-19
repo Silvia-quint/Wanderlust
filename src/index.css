@@ -32,7 +32,7 @@ a {
         background-image: url(imagenes/wanderlust-5.jpg);
         background-position: center;
         background-attachment: contain;
-        background-size: cover;
+        background-size: 100% 150%;
         display: flex;
         flex-flow: column nowrap;
     }
